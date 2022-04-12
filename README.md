@@ -21,4 +21,7 @@ Press 'Burn Bootloader' under Tools
 Upload your sketches to the BGC by choosing Sketch -> Upload Using Programmer
 
 Atmega328P pinout: https://preview.redd.it/bggdd9srui351.png?auto=webp&s=921ec4b761b0465685a39ff3ee45230ead62f877
-BGC3.0 Clone pinout: Basecam Clone Pinout.png
+
+BGC3.0 Clone pinout: 
+
+![alt text](https://github.com/p-rott/Basecam-BGC3.0-Clone-Setup/blob/main/Basecam%20Clone%20Pinout.png?raw=true)
