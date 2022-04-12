@@ -4,9 +4,13 @@ This is a short documentation on how to burn an Arduino bootloader to the BGC3.0
 
 Connect +5V, GND, Reset, SCK, MISO & MOSI between BGC and Arduino, i used the following pins:
 RESET = 53
+
 SCK   = 52
+
 MOSI  = 51
+
 MISO  = 50
+
 
 Select 'ArduinoISP' from File -> Examples -> 11.ArduinoISP
 Define chosen pins in the script
