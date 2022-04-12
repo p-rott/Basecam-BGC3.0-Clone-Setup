@@ -3,6 +3,7 @@
 This is a short documentation on how to burn an Arduino bootloader to the BGC3.0 clone to use it for anything but the original gimbal application.
 
 Connect +5V, GND, Reset, SCK, MISO & MOSI between BGC and Arduino, i used the following pins:
+
 RESET = 53
 
 SCK   = 52
