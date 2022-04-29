@@ -21,9 +21,9 @@ Verify and upload sketch to Arduino
 
 Wire a 100uF capacitor between the pins 5V and Reset on your Arduino  
 Select 'Arduino Pro or Pro Mini' as board, 'ATmega328P (5V, 16MhZ)' as processor and choose correct port
-Press 'Burn Bootloader' under Tools
+Select 'Arduino as ISP' as Programmer, then press 'Burn Bootloader' under Tools
 
-Upload your sketches to the BGC by choosing Sketch -> Upload Using Programmer
+Upload your sketches to the BGC by selecting 'Arduino as ISP' as Programmer and choosing Sketch -> Upload Using Programmer
 
 Atmega328P pinout: https://preview.redd.it/bggdd9srui351.png?auto=webp&s=921ec4b761b0465685a39ff3ee45230ead62f877
 
